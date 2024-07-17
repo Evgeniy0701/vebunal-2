@@ -1,0 +1,312 @@
+Uri: https://neo.tildacdn.com/js/tilda-fallback-1.0.min.js
+File Name: C:\Downloaded Web Sites\ryba.team\js\tilda-fallback-1.0.min-2.js
+Content Type: application/javascript
+
+Uri: https://ryba.team/courses/ai
+File Name: C:\Downloaded Web Sites\ryba.team\courses\ai-5.html
+Content Type: text/html
+
+Uri: https://ryba.team/courses/ai?ref=https://tilda.cc/ru/madeontilda/
+File Name: C:\Downloaded Web Sites\ryba.team\courses\ai-4.html
+Content Type: text/html
+
+Uri: https://static.tildacdn.com/css/highlight.min.css
+File Name: C:\Downloaded Web Sites\ryba.team\css\highlight.min-2.css
+Content Type: text/css
+
+Uri: https://static.tildacdn.com/css/tilda-animation-2.0.min.css
+File Name: C:\Downloaded Web Sites\ryba.team\css\tilda-animation-2.0.min-2.css
+Content Type: text/css
+
+Uri: https://static.tildacdn.com/css/tilda-cart-1.0.min.css
+File Name: C:\Downloaded Web Sites\ryba.team\css\tilda-cart-1.0.min-2.css
+Content Type: text/css
+
+Uri: https://static.tildacdn.com/css/tilda-forms-1.0.min.css
+File Name: C:\Downloaded Web Sites\ryba.team\css\tilda-forms-1.0.min-2.css
+Content Type: text/css
+
+Uri: https://static.tildacdn.com/css/tilda-grid-3.0.min.css
+File Name: C:\Downloaded Web Sites\ryba.team\css\tilda-grid-3.0.min-2.css
+Content Type: text/css
+
+Uri: https://static.tildacdn.com/css/tilda-popup-1.1.min.css
+File Name: C:\Downloaded Web Sites\ryba.team\css\tilda-popup-1.1.min-2.css
+Content Type: text/css
+
+Uri: https://static.tildacdn.com/js/highlight.min.js
+File Name: C:\Downloaded Web Sites\ryba.team\js\highlight.min-2.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/jquery-1.10.2.min.js
+File Name: C:\Downloaded Web Sites\ryba.team\js\jquery-1.10.2.min-2.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-animation-2.0.min.js
+File Name: C:\Downloaded Web Sites\ryba.team\js\tilda-animation-2.0.min-2.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-animation-sbs-1.0.min.js
+File Name: C:\Downloaded Web Sites\ryba.team\js\tilda-animation-sbs-1.0.min-2.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-cart-1.0.min.js
+File Name: C:\Downloaded Web Sites\ryba.team\js\tilda-cart-1.0.min-2.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-events-1.0.min.js
+File Name: C:\Downloaded Web Sites\ryba.team\js\tilda-events-1.0.min-2.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-forms-1.0.min.js
+File Name: C:\Downloaded Web Sites\ryba.team\js\tilda-forms-1.0.min-2.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-menu-1.0.min.js
+File Name: C:\Downloaded Web Sites\ryba.team\js\tilda-menu-1.0.min-2.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-polyfill-1.0.min.js
+File Name: C:\Downloaded Web Sites\ryba.team\js\tilda-polyfill-1.0.min-2.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-popup-1.0.min.js
+File Name: C:\Downloaded Web Sites\ryba.team\js\tilda-popup-1.0.min-2.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-promocode-1.0.min.js
+File Name: C:\Downloaded Web Sites\ryba.team\js\tilda-promocode-1.0.min-2.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-scripts-3.0.min.js
+File Name: C:\Downloaded Web Sites\ryba.team\js\tilda-scripts-3.0.min-2.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-skiplink-1.0.min.js
+File Name: C:\Downloaded Web Sites\ryba.team\js\tilda-skiplink-1.0.min-2.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-submenublocks-1.0.min.js
+File Name: C:\Downloaded Web Sites\ryba.team\js\tilda-submenublocks-1.0.min-2.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-zero-1.1.min.js
+File Name: C:\Downloaded Web Sites\ryba.team\js\tilda-zero-1.1.min-2.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-zero-scale-1.0.min.js
+File Name: C:\Downloaded Web Sites\ryba.team\js\tilda-zero-scale-1.0.min-2.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/tild3032-3333-4531-b462-643866646433/Group_27.svg
+File Name: C:\Downloaded Web Sites\ryba.team\tild3032-3333-4531-b462-643866646433\Group_27-2.svg
+Content Type: image/svg+xml
+
+Uri: https://static.tildacdn.com/tild3037-3563-4631-b230-666230626432/Vector_2.svg
+File Name: C:\Downloaded Web Sites\ryba.team\tild3037-3563-4631-b230-666230626432\Vector_2-2.svg
+Content Type: image/svg+xml
+
+Uri: https://static.tildacdn.com/tild3130-3639-4332-b738-376364633062/Subtract.svg
+File Name: C:\Downloaded Web Sites\ryba.team\tild3130-3639-4332-b738-376364633062\Subtract-2.svg
+Content Type: image/svg+xml
+
+Uri: https://static.tildacdn.com/tild3133-3937-4532-b433-346465383138/IMG_5641.png
+File Name: C:\Downloaded Web Sites\ryba.team\tild3133-3937-4532-b433-346465383138\IMG_5641-2.png
+Content Type: image/png
+
+Uri: https://static.tildacdn.com/tild3135-3430-4638-b062-653765313638/Ellipse_10.svg
+File Name: C:\Downloaded Web Sites\ryba.team\tild3135-3430-4638-b062-653765313638\Ellipse_10-2.svg
+Content Type: image/svg+xml
+
+Uri: https://static.tildacdn.com/tild3138-3135-4737-b966-336330666563/Subtract.svg
+File Name: C:\Downloaded Web Sites\ryba.team\tild3138-3135-4737-b966-336330666563\Subtract-2.svg
+Content Type: image/svg+xml
+
+Uri: https://static.tildacdn.com/tild3232-3636-4839-b131-326436396332/Subtract.svg
+File Name: C:\Downloaded Web Sites\ryba.team\tild3232-3636-4839-b131-326436396332\Subtract-2.svg
+Content Type: image/svg+xml
+
+Uri: https://static.tildacdn.com/tild3236-6465-4462-b964-313166393634/Vector_7.svg
+File Name: C:\Downloaded Web Sites\ryba.team\tild3236-6465-4462-b964-313166393634\Vector_7-2.svg
+Content Type: image/svg+xml
+
+Uri: https://static.tildacdn.com/tild3265-3066-4139-a636-333031333434/noroot.png
+File Name: C:\Downloaded Web Sites\ryba.team\tild3265-3066-4139-a636-333031333434\noroot-2.png
+Content Type: image/png
+
+Uri: https://static.tildacdn.com/tild3332-3235-4065-b630-646462366333/IMG_5643_1.png
+File Name: C:\Downloaded Web Sites\ryba.team\tild3332-3235-4065-b630-646462366333\IMG_5643_1-2.png
+Content Type: image/png
+
+Uri: https://static.tildacdn.com/tild3333-3362-4638-a439-353362613364/Subtract.svg
+File Name: C:\Downloaded Web Sites\ryba.team\tild3333-3362-4638-a439-353362613364\Subtract-2.svg
+Content Type: image/svg+xml
+
+Uri: https://static.tildacdn.com/tild3365-6430-4335-b365-336136313031/IMG_5665_1.png
+File Name: C:\Downloaded Web Sites\ryba.team\tild3365-6430-4335-b365-336136313031\IMG_5665_1-2.png
+Content Type: image/png
+
+Uri: https://static.tildacdn.com/tild3433-6631-4839-b433-363235376263/Group_47.svg
+File Name: C:\Downloaded Web Sites\ryba.team\tild3433-6631-4839-b433-363235376263\Group_47-2.svg
+Content Type: image/svg+xml
+
+Uri: https://static.tildacdn.com/tild3437-6461-4561-b763-656162633535/NeueMetanaNext-SemiB.woff
+File Name: C:\Downloaded Web Sites\ryba.team\tild3437-6461-4561-b763-656162633535\NeueMetanaNext-SemiB-2.woff
+Content Type: font/woff
+
+Uri: https://static.tildacdn.com/tild3462-6365-4832-a433-366562313730/svg_1708606766055.svg
+File Name: C:\Downloaded Web Sites\ryba.team\tild3462-6365-4832-a433-366562313730\svg_1708606766055-2.svg
+Content Type: image/svg+xml
+
+Uri: https://static.tildacdn.com/tild3465-6231-4061-b436-303938643034/Vector_6.svg
+File Name: C:\Downloaded Web Sites\ryba.team\tild3465-6231-4061-b436-303938643034\Vector_6-2.svg
+Content Type: image/svg+xml
+
+Uri: https://static.tildacdn.com/tild3530-3633-4239-b430-356666313730/Group_137.png
+File Name: C:\Downloaded Web Sites\ryba.team\tild3530-3633-4239-b430-356666313730\Group_137-2.png
+Content Type: image/png
+
+Uri: https://static.tildacdn.com/tild3534-6130-4039-b333-363766303438/Vector_11.svg
+File Name: C:\Downloaded Web Sites\ryba.team\tild3534-6130-4039-b333-363766303438\Vector_11-2.svg
+Content Type: image/svg+xml
+
+Uri: https://static.tildacdn.com/tild3539-6164-4132-a261-326439653335/IMG_5664_1.png
+File Name: C:\Downloaded Web Sites\ryba.team\tild3539-6164-4132-a261-326439653335\IMG_5664_1-2.png
+Content Type: image/png
+
+Uri: https://static.tildacdn.com/tild3561-3734-4566-b733-646264646466/Group_60.svg
+File Name: C:\Downloaded Web Sites\ryba.team\tild3561-3734-4566-b733-646264646466\Group_60-2.svg
+Content Type: image/svg+xml
+
+Uri: https://static.tildacdn.com/tild3566-6430-4335-a634-383535356330/Subtract.svg
+File Name: C:\Downloaded Web Sites\ryba.team\tild3566-6430-4335-a634-383535356330\Subtract-2.svg
+Content Type: image/svg+xml
+
+Uri: https://static.tildacdn.com/tild3630-6230-4233-b162-653932303639/IMG_5663_1.png
+File Name: C:\Downloaded Web Sites\ryba.team\tild3630-6230-4233-b162-653932303639\IMG_5663_1-2.png
+Content Type: image/png
+
+Uri: https://static.tildacdn.com/tild3633-6163-4635-a531-396365663732/Vector_11.svg
+File Name: C:\Downloaded Web Sites\ryba.team\tild3633-6163-4635-a531-396365663732\Vector_11-2.svg
+Content Type: image/svg+xml
+
+Uri: https://static.tildacdn.com/tild3637-6665-4432-a364-653631623636/Group_28.svg
+File Name: C:\Downloaded Web Sites\ryba.team\tild3637-6665-4432-a364-653631623636\Group_28-2.svg
+Content Type: image/svg+xml
+
+Uri: https://static.tildacdn.com/tild3638-3765-4138-b031-343539643333/Subtract.svg
+File Name: C:\Downloaded Web Sites\ryba.team\tild3638-3765-4138-b031-343539643333\Subtract-2.svg
+Content Type: image/svg+xml
+
+Uri: https://static.tildacdn.com/tild3766-6363-4264-b638-306163333463/Frame_8.svg
+File Name: C:\Downloaded Web Sites\ryba.team\tild3766-6363-4264-b638-306163333463\Frame_8-2.svg
+Content Type: image/svg+xml
+
+Uri: https://static.tildacdn.com/tild3862-3263-4033-a465-313566383937/favicon-2.ico
+File Name: C:\Downloaded Web Sites\ryba.team\tild3862-3263-4033-a465-313566383937\favicon-2-2.ico
+Content Type: image/vnd.microsoft.icon
+
+Uri: https://static.tildacdn.com/tild3862-3932-4537-b638-623738313339/Subtract.svg
+File Name: C:\Downloaded Web Sites\ryba.team\tild3862-3932-4537-b638-623738313339\Subtract-2.svg
+Content Type: image/svg+xml
+
+Uri: https://static.tildacdn.com/tild3931-6362-4261-a237-363566343734/Vector_3.svg
+File Name: C:\Downloaded Web Sites\ryba.team\tild3931-6362-4261-a237-363566343734\Vector_3-2.svg
+Content Type: image/svg+xml
+
+Uri: https://static.tildacdn.com/tild3935-3138-4263-b535-376530343535/Group_57.svg
+File Name: C:\Downloaded Web Sites\ryba.team\tild3935-3138-4263-b535-376530343535\Group_57-2.svg
+Content Type: image/svg+xml
+
+Uri: https://static.tildacdn.com/tild3965-6163-4265-a638-323961323433/Stolzl-Medium.woff
+File Name: C:\Downloaded Web Sites\ryba.team\tild3965-6163-4265-a638-323961323433\Stolzl-Medium-2.woff
+Content Type: font/woff
+
+Uri: https://static.tildacdn.com/tild6131-6462-4339-b763-343537383264/IMG_5666_1.png
+File Name: C:\Downloaded Web Sites\ryba.team\tild6131-6462-4339-b763-343537383264\IMG_5666_1-2.png
+Content Type: image/png
+
+Uri: https://static.tildacdn.com/tild6132-3934-4536-a163-663665306135/Group_39.svg
+File Name: C:\Downloaded Web Sites\ryba.team\tild6132-3934-4536-a163-663665306135\Group_39-2.svg
+Content Type: image/svg+xml
+
+Uri: https://static.tildacdn.com/tild6134-3464-4330-b038-323830656665/IMG_5667_1.png
+File Name: C:\Downloaded Web Sites\ryba.team\tild6134-3464-4330-b038-323830656665\IMG_5667_1-2.png
+Content Type: image/png
+
+Uri: https://static.tildacdn.com/tild6136-3633-4836-a639-333634313937/Stolzl-Book.woff
+File Name: C:\Downloaded Web Sites\ryba.team\tild6136-3633-4836-a639-333634313937\Stolzl-Book-2.woff
+Content Type: font/woff
+
+Uri: https://static.tildacdn.com/tild6165-6530-4166-a631-303738396166/Stolzl-Regular.woff
+File Name: C:\Downloaded Web Sites\ryba.team\tild6165-6530-4166-a631-303738396166\Stolzl-Regular-2.woff
+Content Type: font/woff
+
+Uri: https://static.tildacdn.com/tild6235-3631-4333-b238-653462346537/Vector_4.svg
+File Name: C:\Downloaded Web Sites\ryba.team\tild6235-3631-4333-b238-653462346537\Vector_4-2.svg
+Content Type: image/svg+xml
+
+Uri: https://static.tildacdn.com/tild6332-6531-4033-b566-356561656536/Group_41.svg
+File Name: C:\Downloaded Web Sites\ryba.team\tild6332-6531-4033-b566-356561656536\Group_41-2.svg
+Content Type: image/svg+xml
+
+Uri: https://static.tildacdn.com/tild6335-6436-4933-a535-646266373164/Stolzl-Book.woff
+File Name: C:\Downloaded Web Sites\ryba.team\tild6335-6436-4933-a535-646266373164\Stolzl-Book-2.woff
+Content Type: font/woff
+
+Uri: https://static.tildacdn.com/tild6338-3133-4664-b663-356362663137/photo_2024-03-07_11-.jpg
+File Name: C:\Downloaded Web Sites\ryba.team\tild6338-3133-4664-b663-356362663137\photo_2024-03-07_11--2.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild6339-6333-4239-a661-346462643636/photo.jpg
+File Name: C:\Downloaded Web Sites\ryba.team\tild6339-6333-4239-a661-346462643636\photo-2.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild6366-3631-4631-b363-383366373136/Subtract.svg
+File Name: C:\Downloaded Web Sites\ryba.team\tild6366-3631-4631-b363-383366373136\Subtract-2.svg
+Content Type: image/svg+xml
+
+Uri: https://static.tildacdn.com/tild6434-3461-4035-b036-613866353237/Stolzl-Medium.woff
+File Name: C:\Downloaded Web Sites\ryba.team\tild6434-3461-4035-b036-613866353237\Stolzl-Medium-2.woff
+Content Type: font/woff
+
+Uri: https://static.tildacdn.com/tild6437-3061-4365-b530-346463636534/Union.svg
+File Name: C:\Downloaded Web Sites\ryba.team\tild6437-3061-4365-b530-346463636534\Union-2.svg
+Content Type: image/svg+xml
+
+Uri: https://static.tildacdn.com/tild6437-6237-4431-b131-346166386430/Group_40.svg
+File Name: C:\Downloaded Web Sites\ryba.team\tild6437-6237-4431-b131-346166386430\Group_40-2.svg
+Content Type: image/svg+xml
+
+Uri: https://static.tildacdn.com/tild6437-6434-4164-a537-323964373035/435435345.jpg
+File Name: C:\Downloaded Web Sites\ryba.team\tild6437-6434-4164-a537-323964373035\435435345-2.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild6439-3561-4830-b634-653761373166/noroot.png
+File Name: C:\Downloaded Web Sites\ryba.team\tild6439-3561-4830-b634-653761373166\noroot-2.png
+Content Type: image/png
+
+Uri: https://static.tildacdn.com/tild6464-6332-4164-a636-343136303164/oc_portrait-1110_1.png
+File Name: C:\Downloaded Web Sites\ryba.team\tild6464-6332-4164-a636-343136303164\oc_portrait-1110_1-2.png
+Content Type: image/png
+
+Uri: https://static.tildacdn.com/tild6539-3961-4134-b636-613061633934/Vector_9.svg
+File Name: C:\Downloaded Web Sites\ryba.team\tild6539-3961-4134-b636-613061633934\Vector_9-2.svg
+Content Type: image/svg+xml
+
+Uri: https://static.tildacdn.com/tild6563-6534-4734-a461-653265643136/Subtract.svg
+File Name: C:\Downloaded Web Sites\ryba.team\tild6563-6534-4734-a461-653265643136\Subtract-2.svg
+Content Type: image/svg+xml
+
+Uri: https://static.tildacdn.com/ws/project3231372/tilda-blocks-page44220535.min.css?t=1720010665
+File Name: C:\Downloaded Web Sites\ryba.team\ws\project3231372\tilda-blocks-page44220535.min-2.css
+Content Type: text/css
+
+Uri: https://static.tildacdn.com/ws/project3231372/tilda-blocks-page44220535.min.js?t=1720010665
+File Name: C:\Downloaded Web Sites\ryba.team\ws\project3231372\tilda-blocks-page44220535.min-2.js
+Content Type: application/javascript
+
+Uri: https://unpkg.com/scrollbooster@3.0.2/dist/scrollbooster.min.js
+File Name: C:\Downloaded Web Sites\ryba.team\scrollbooster@3.0.2\dist\scrollbooster.min-2.js
+Content Type: application/javascript
+
